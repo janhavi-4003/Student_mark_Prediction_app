@@ -8,13 +8,7 @@
 
  
  
- 
- 
- 
- 
- 
- 
- # Project Title: Student Math Score Predictor using Machine Learning
+  # Project Title: Student Math Score Predictor using Machine Learning
 
 #  Description:
 
